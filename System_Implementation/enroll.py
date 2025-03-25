@@ -50,7 +50,7 @@ arcface.eval()
 # Load Retina
 cfg = cfg_re50
 retinaface = RetinaFace(cfg=cfg, phase='test')
-retinaface = load_retinaface_model(retinaface, 'retina_weights/Resnet50_epoch_10.pth', load_to_cpu=False)
+retinaface = load_retinaface_model(retinaface, 'Resnet50_epoch_40.pth', load_to_cpu=False)
 retinaface.eval()
 retinaface.to(device)
 cudnn.benchmark = True
