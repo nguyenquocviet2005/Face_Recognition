@@ -1,38 +1,35 @@
 # Project Overview
+This is the final project of Group 1 from class AI1903 for the CPV301 and AIL303m subjects.
 
 This repository contains the necessary files and code for training, evaluating models, and implementing the system. Below is the explanation of each folder:
 
 ## Folder Structure
 
-### 1. `folder1/`
-- **Purpose:** This folder is dedicated to training and evaluating **Model 1**.
+### 1. `Arcface_train_evaluate/`
+- **Purpose:** This folder is dedicated to training and evaluating **Model Arcface**.
 - **Contents:**
   - Training scripts
-  - Evaluation metrics
-  - Preprocessed data specific to Model 1
+  - Evaluation scripts
+  - All modules required for the training and evaluation processes
 
-### 2. `folder2/`
-- **Purpose:** This folder is dedicated to training and evaluating **Model 2**.
+### 2. `Retinaface_train_evaluate/`
+- **Purpose:** This folder is dedicated to training and evaluating **Model Retinaface**.
 - **Contents:**
   - Training scripts
-  - Evaluation metrics
-  - Preprocessed data specific to Model 2
+  - Evaluation scripts
+  - All modules required for the training and evaluation processes
 
-### 3. `folder3/`
+### 3. `System_Implementation/`
 - **Purpose:** This folder is for **system implementation**.
 - **Contents:**
   - Integrated system code
   - End-to-end implementation of the models
-  - User-facing application scripts (if any)
+  - User-facing application scripts
 
 ## How to Use
 
 1. Navigate to the specific folder for the task you want to perform.
 2. Follow the instructions or scripts provided in the folder to execute training, evaluation, or system implementation.
-
-## Requirements
-- Python 3.x
-- Dependencies listed in `requirements.txt`
 
 ## Installation
 1. Clone the repository:
