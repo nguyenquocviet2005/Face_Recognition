@@ -1,9 +1,7 @@
 # RetinaFace in PyTorch
 
 ## Data
-1. Download the [WIDERFACE] dataset
-
-Link: from [google cloud](https://drive.google.com/open?id=11UGV3nbVv1x9IC--_tK3Uxf7hA6rlbsS)
+1. Download the [WIDERFACE](https://drive.google.com/open?id=11UGV3nbVv1x9IC--_tK3Uxf7hA6rlbsS) dataset
 
 2. Organise the dataset directory as follows:
 
