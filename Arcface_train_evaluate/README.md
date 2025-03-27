@@ -2,9 +2,7 @@
 
 ## Data
 #### Training Dataset
-1. Download the [MS1MV2] dataset
-
-Link: from [google cloud](https://drive.google.com/file/d/1SXS4-Am3bsKSK615qbYdbA_FMVh3sAvR/view?usp=sharing)
+1. Download the [MS1MV2](https://drive.google.com/file/d/1SXS4-Am3bsKSK615qbYdbA_FMVh3sAvR/view?usp=sharing) dataset
 
 2. Organise the dataset directory as follows:
 
@@ -13,9 +11,7 @@ Link: from [google cloud](https://drive.google.com/file/d/1SXS4-Am3bsKSK615qbYdb
 ```
 
 #### Evaluating Dataset
-1. Download the [IJB-C] dataset
-
-Link: from [google cloud](https://drive.google.com/file/d/1SXS4-Am3bsKSK615qbYdbA_FMVh3sAvR/view?usp=sharing)
+1. Download the [IJB-C](https://drive.google.com/file/d/1XLfdI2Rr8TP-yD5HrV4NNjyc_NKMKPWP/view?usp=sharing) dataset
 
 2. Organise the dataset directory as follows:
 
@@ -35,7 +31,7 @@ Link: from [google cloud](https://drive.google.com/file/d/1SXS4-Am3bsKSK615qbYdb
 
 ## Evaluation
 
-1. Download the [IJB-C] () dataset for evaluating
+1. Download the [IJB-C](https://drive.google.com/file/d/1XLfdI2Rr8TP-yD5HrV4NNjyc_NKMKPWP/view?usp=sharing) dataset for evaluating
 
 2. Run the file eval_ijbc.py
 
