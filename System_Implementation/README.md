@@ -1,7 +1,10 @@
-## 📥 Download Model Weights  
+## Downloading the Model Weights
 
-To download the required model weights, run the following command in **Anaconda Prompt** or **Ubuntu Terminal**:  
+To download the Retinaface model weights, click the link below:  
+[Retinaface Model Weights](https://drive.google.com/file/d/1PNqTx7EZ0M6MyFsCNwvqzlnBtHMQ0VLq/view?usp=sharing)
 
-```sh
-mkdir retina_weights && gdown "https://drive.google.com/uc?id=1pqrL5BI3NEJfIjQQgEYVnXt3h_Bn2ILo" -O retina_weights/
+### Steps to Download:
+1. Click the link above.
+2. On the Google Drive page, click the **Download** button.
+3. Save the file to the current directory.
 

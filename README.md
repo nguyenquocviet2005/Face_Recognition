@@ -34,5 +34,5 @@ This repository contains the necessary files and code for training, evaluating m
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/nguyenquocviet2005/Face_Recognition.git
 
