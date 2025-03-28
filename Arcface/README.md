@@ -7,7 +7,7 @@
 2. Organise the dataset directory as follows:
 
 ```Shell
-  ./Arcface_train_evaluate/train_tmp/faces_emore/
+  ./Arcface/faces_emore/
 ```
 
 #### Evaluating Dataset
@@ -16,7 +16,7 @@
 2. Organise the dataset directory as follows:
 
 ```Shell
-  ./Arcface_train_evaluate/IJBC/
+  ./Arcface/IJBC/
 ```
 
 ## Training
