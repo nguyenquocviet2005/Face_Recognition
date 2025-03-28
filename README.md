@@ -1,25 +1,28 @@
 # Project Overview
-This is the final project of Group 1 from class AI1903 for the CPV301 and AIL303m subjects.
+This is the final project of Group 1 from class AI1903 for the CPV301 and AIL303m subjects, advised by lecturer Luong Trung Kien.
 
 This repository contains the necessary files and code for training, evaluating models, and implementing the system. Below is the explanation of each folder:
 
-## Folder Structure
+## File/Folder Structure
 
-### 1. `Arcface_train_evaluate/`
+### 1. 'execution_script.ipynb'
+- This file contains the scripts for training/evaluating Arcface and Retinaface models conveniently. Additionally, the script for executing the face recognition system is also included.
+
+### 2. `Arcface_train_evaluate/`
 - **Purpose:** This folder is dedicated to training and evaluating **Model Arcface**.
 - **Contents:**
   - Training scripts
   - Evaluation scripts
   - All modules required for the training and evaluation processes
 
-### 2. `Retinaface_train_evaluate/`
+### 3. `Retinaface_train_evaluate/`
 - **Purpose:** This folder is dedicated to training and evaluating **Model Retinaface**.
 - **Contents:**
   - Training scripts
   - Evaluation scripts
   - All modules required for the training and evaluation processes
 
-### 3. `System_Implementation/`
+### 4. `System_Implementation/`
 - **Purpose:** This folder is for **system implementation**.
 - **Contents:**
   - Integrated system code
