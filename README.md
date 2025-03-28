@@ -5,8 +5,8 @@ This repository contains the necessary files and code for training, evaluating m
 
 ## File/Folder Structure
 
-### 1. `execution_script.ipynb`
-- This file contains the scripts for training/evaluating Arcface and Retinaface models conveniently. Additionally, the script for executing the face recognition system is also included.
+### 1. `run_scripts.ipynb`
+- This file contains the scripts for training/evaluating Arcface and Retinaface models conveniently. Additionally, the scripts for running the face recognition system are also included.
 
 ### 2. `Arcface/`
 - **Purpose:** This folder is dedicated to training and evaluating **Model Arcface**.
